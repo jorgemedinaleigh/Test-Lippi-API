@@ -1,0 +1,6 @@
+@Test_Lippi_API_HostAddress = http://localhost:5298
+
+GET {{Test_Lippi_API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
