@@ -3,20 +3,28 @@
   "WorkspaceRootPath": "D:\\Programming\\.NET Projects\\Test Lippi API\\Test Lippi API\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BDD3A3A2-0E44-4348-846A-1A58BAC4CD09}|Test Lippi API\\Test Lippi API.csproj|d:\\programming\\.net projects\\test lippi api\\test lippi api\\test lippi api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BDD3A3A2-0E44-4348-846A-1A58BAC4CD09}|Test Lippi API\\Test Lippi API.csproj|solutionrelative:test lippi api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BDD3A3A2-0E44-4348-846A-1A58BAC4CD09}|Test Lippi API\\Test Lippi API.csproj|d:\\programming\\.net projects\\test lippi api\\test lippi api\\test lippi api\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDD3A3A2-0E44-4348-846A-1A58BAC4CD09}|Test Lippi API\\Test Lippi API.csproj|solutionrelative:test lippi api\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BDD3A3A2-0E44-4348-846A-1A58BAC4CD09}|Test Lippi API\\Test Lippi API.csproj|d:\\programming\\.net projects\\test lippi api\\test lippi api\\test lippi api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{BDD3A3A2-0E44-4348-846A-1A58BAC4CD09}|Test Lippi API\\Test Lippi API.csproj|solutionrelative:test lippi api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{BDD3A3A2-0E44-4348-846A-1A58BAC4CD09}|Test Lippi API\\Test Lippi API.csproj|d:\\programming\\.net projects\\test lippi api\\test lippi api\\test lippi api\\models\\updateproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDD3A3A2-0E44-4348-846A-1A58BAC4CD09}|Test Lippi API\\Test Lippi API.csproj|solutionrelative:test lippi api\\models\\updateproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BDD3A3A2-0E44-4348-846A-1A58BAC4CD09}|Test Lippi API\\Test Lippi API.csproj|d:\\programming\\.net projects\\test lippi api\\test lippi api\\test lippi api\\data\\api_dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BDD3A3A2-0E44-4348-846A-1A58BAC4CD09}|Test Lippi API\\Test Lippi API.csproj|solutionrelative:test lippi api\\data\\api_dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BDD3A3A2-0E44-4348-846A-1A58BAC4CD09}|Test Lippi API\\Test Lippi API.csproj|d:\\programming\\.net projects\\test lippi api\\test lippi api\\test lippi api\\models\\addproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDD3A3A2-0E44-4348-846A-1A58BAC4CD09}|Test Lippi API\\Test Lippi API.csproj|solutionrelative:test lippi api\\models\\addproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BDD3A3A2-0E44-4348-846A-1A58BAC4CD09}|Test Lippi API\\Test Lippi API.csproj|d:\\programming\\.net projects\\test lippi api\\test lippi api\\test lippi api\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BDD3A3A2-0E44-4348-846A-1A58BAC4CD09}|Test Lippi API\\Test Lippi API.csproj|solutionrelative:test lippi api\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDD3A3A2-0E44-4348-846A-1A58BAC4CD09}|Test Lippi API\\Test Lippi API.csproj|d:\\programming\\.net projects\\test lippi api\\test lippi api\\test lippi api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDD3A3A2-0E44-4348-846A-1A58BAC4CD09}|Test Lippi API\\Test Lippi API.csproj|solutionrelative:test lippi api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDD3A3A2-0E44-4348-846A-1A58BAC4CD09}|Test Lippi API\\Test Lippi API.csproj|d:\\programming\\.net projects\\test lippi api\\test lippi api\\test lippi api\\data\\api_dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDD3A3A2-0E44-4348-846A-1A58BAC4CD09}|Test Lippi API\\Test Lippi API.csproj|solutionrelative:test lippi api\\data\\api_dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,47 +34,73 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Programming\\.NET Projects\\Test Lippi API\\Test Lippi API\\Test Lippi API\\Program.cs",
-              "RelativeDocumentMoniker": "Test Lippi API\\Program.cs",
-              "ToolTip": "D:\\Programming\\.NET Projects\\Test Lippi API\\Test Lippi API\\Test Lippi API\\Program.cs",
-              "RelativeToolTip": "Test Lippi API\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAACNAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-10T20:15:20.835Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\Programming\\.NET Projects\\Test Lippi API\\Test Lippi API\\Test Lippi API\\appsettings.json",
-              "RelativeDocumentMoniker": "Test Lippi API\\appsettings.json",
-              "ToolTip": "D:\\Programming\\.NET Projects\\Test Lippi API\\Test Lippi API\\Test Lippi API\\appsettings.json",
-              "RelativeToolTip": "Test Lippi API\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAACGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-10-10T20:11:20.192Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UpdateProductDto.cs",
+              "DocumentMoniker": "D:\\Programming\\.NET Projects\\Test Lippi API\\Test Lippi API\\Test Lippi API\\Models\\UpdateProductDto.cs",
+              "RelativeDocumentMoniker": "Test Lippi API\\Models\\UpdateProductDto.cs",
+              "ToolTip": "D:\\Programming\\.NET Projects\\Test Lippi API\\Test Lippi API\\Test Lippi API\\Models\\UpdateProductDto.cs",
+              "RelativeToolTip": "Test Lippi API\\Models\\UpdateProductDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T22:37:44.772Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "AddProductDto.cs",
+              "DocumentMoniker": "D:\\Programming\\.NET Projects\\Test Lippi API\\Test Lippi API\\Test Lippi API\\Models\\AddProductDto.cs",
+              "RelativeDocumentMoniker": "Test Lippi API\\Models\\AddProductDto.cs",
+              "ToolTip": "D:\\Programming\\.NET Projects\\Test Lippi API\\Test Lippi API\\Test Lippi API\\Models\\AddProductDto.cs",
+              "RelativeToolTip": "Test Lippi API\\Models\\AddProductDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T21:28:44.359Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "D:\\Programming\\.NET Projects\\Test Lippi API\\Test Lippi API\\Test Lippi API\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "Test Lippi API\\Controllers\\ProductsController.cs",
+              "ToolTip": "D:\\Programming\\.NET Projects\\Test Lippi API\\Test Lippi API\\Test Lippi API\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "Test Lippi API\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAmwCgAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T20:36:21.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Programming\\.NET Projects\\Test Lippi API\\Test Lippi API\\Test Lippi API\\Program.cs",
+              "RelativeDocumentMoniker": "Test Lippi API\\Program.cs",
+              "ToolTip": "D:\\Programming\\.NET Projects\\Test Lippi API\\Test Lippi API\\Test Lippi API\\Program.cs",
+              "RelativeToolTip": "Test Lippi API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T20:15:20.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "API_DbContext.cs",
               "DocumentMoniker": "D:\\Programming\\.NET Projects\\Test Lippi API\\Test Lippi API\\Test Lippi API\\Data\\API_DbContext.cs",
               "RelativeDocumentMoniker": "Test Lippi API\\Data\\API_DbContext.cs",
               "ToolTip": "D:\\Programming\\.NET Projects\\Test Lippi API\\Test Lippi API\\Test Lippi API\\Data\\API_DbContext.cs",
               "RelativeToolTip": "Test Lippi API\\Data\\API_DbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-09T17:55:13.259Z",
               "EditorCaption": ""
@@ -79,7 +113,7 @@
               "RelativeDocumentMoniker": "Test Lippi API\\Models\\Product.cs",
               "ToolTip": "D:\\Programming\\.NET Projects\\Test Lippi API\\Test Lippi API\\Test Lippi API\\Models\\Product.cs",
               "RelativeToolTip": "Test Lippi API\\Models\\Product.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-09T17:19:00.101Z",
               "EditorCaption": ""

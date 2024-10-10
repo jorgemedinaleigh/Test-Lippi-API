@@ -3,6 +3,7 @@ using System;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 using Test_Lippi_API.Data;
 
@@ -11,9 +12,11 @@ using Test_Lippi_API.Data;
 namespace Test_Lippi_API.Migrations
 {
     [DbContext(typeof(API_DbContext))]
-    partial class API_DbContextModelSnapshot : ModelSnapshot
+    [Migration("20241010211215_ProductDb migration")]
+    partial class ProductDbmigration
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        /// <inheritdoc />
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
