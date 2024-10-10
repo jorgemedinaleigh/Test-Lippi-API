@@ -4,7 +4,7 @@
     {
         public int productID { get; set; }
         public required string productName { get; set; }
-        public int stock {  get; set; }
+        public int productStock {  get; set; }
         public decimal productPrice { get; set; }
     }
 }

@@ -1,4 +1,5 @@
 ﻿using Microsoft.EntityFrameworkCore;
+using Test_Lippi_API.Models;
 
 namespace Test_Lippi_API.Data
 {
@@ -8,5 +9,7 @@ namespace Test_Lippi_API.Data
         {
 
         }
+
+        public DbSet<Product> Products{ get; set; }
     }
 }

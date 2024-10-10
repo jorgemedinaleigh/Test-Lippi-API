@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Test Lippi API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+295ddedb9044cade6ec5a6fb7d56d3a356fb9f53")]
 [assembly: System.Reflection.AssemblyProductAttribute("Test Lippi API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Test Lippi API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
